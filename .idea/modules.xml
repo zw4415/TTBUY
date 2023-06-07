@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TTBUY.iml" filepath="$PROJECT_DIR$/.idea/TTBUY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTBUY.iml" filepath="$PROJECT_DIR$/TTBUY.iml" />
     </modules>
   </component>
 </project>
